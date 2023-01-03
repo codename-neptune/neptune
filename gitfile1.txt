@@ -1,2 +1,3 @@
 something else
 we want to perform a merge
+git is great
